@@ -223,6 +223,7 @@
 ![img](img/11.PNG)
 
 verificación
+
 ![img](img/9.PNG)
 
 ### Ver los usuarios
@@ -238,6 +239,7 @@ verificación
 ![img](img/5.PNG)
 
 verificación
+
 ![img](img/6.PNG)
 
 ### eliminar usuario
@@ -245,6 +247,7 @@ verificación
 ![img](img/7.PNG)
 
 verificación
+
 ![img](img/8.PNG)
 
 
