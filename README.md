@@ -217,6 +217,37 @@
   ```
 
 12. Download and install [Postman](https://www.postman.com/) and test ALL the endpoints of your API.
+
+### Crear Usuario
+
+![img](img/11.PNG)
+
+verificación
+![img](img/9.PNG)
+
+### Ver los usuarios
+
+![img](img/3.PNG)
+
+### ver usuario
+
+![img](img/4.PNG)
+
+### editar usuario
+
+![img](img/5.PNG)
+
+verificación
+![img](img/6.PNG)
+
+### eliminar usuario
+
+![img](img/7.PNG)
+
+verificación
+![img](img/8.PNG)
+
+
 ### Part 2: Implementing the Tasks Microservice RESTFUL API
 
 1. Create a new project using the [Spring Initializr](https://start.spring.io/)
