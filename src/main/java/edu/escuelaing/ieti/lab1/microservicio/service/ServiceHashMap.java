@@ -30,7 +30,7 @@ public class ServiceHashMap implements UserService{
     @Override
     public Boolean deleteById(String id) {
         usersHash.remove(id);
-        boolean delete = !usersHash.containsKey(id);
+        Boolean delete = !usersHash.containsKey(id);
         return delete;
     }
 
